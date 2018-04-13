@@ -32,6 +32,7 @@ void walk(){
           LobotSerialServoMove(Serial, i+1, rightDown2Pos[i], 400);
   }
   delay(500);
+  //change
 }
 
 void Read(){
